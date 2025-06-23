@@ -1,4 +1,5 @@
 from db import SessionLocal
+from sqlalchemy import text
 from models.aluno import Aluno
 from models.livro import Livro
 from models.exemplar import Exemplar
@@ -16,7 +17,7 @@ def main():
     # Testando conexão
     session = SessionLocal()
     try:
-        session.execute("SELECT 1")
+        session.execute(text("SELECT 1"))
         print("Conectado com sucesso! 🎉")
     except Exception as e:
         print("Erro na conexão:", e)
