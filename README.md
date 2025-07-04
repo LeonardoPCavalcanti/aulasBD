@@ -125,3 +125,10 @@ Você precisa ter previamente criado o banco de dados e suas tabelas no PostgreS
 - Documentação clara no `README.md`
 
 ---
+
+## 🐻 Desenvolvido por:
+- Leonardo Pessoa Cavalcanti
+- Lucas Marques dos Santos
+- Erick Vinicius Justino da Silva
+
+"""
