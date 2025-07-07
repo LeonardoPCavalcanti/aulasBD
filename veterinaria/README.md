@@ -114,9 +114,9 @@ Este projeto é acadêmico e pode ser usado livremente para fins didáticos.
 
 ---
 
-## 👤 Desenvolvido por
+## Desenvolvido por:
+- Leonardo Pessoa Cavalcanti
+- Lucas Marques dos Santos
+- Erick Vinicius Justino da Silva
 
-**Leonardo Pessoa Cavalcanti**
-**Erick Vinicius Justino da Silva**
-**Lucas Marques dos Santos**
 Disciplina de Banco de Dados – UFRN 
